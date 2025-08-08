@@ -46,23 +46,22 @@ Ideal para juegos y reuniones con amigos o familia.
 git clone https://github.com/belubullorini/challenge-amigo-secreto
 ```
 2. Abrir el archivo index.html en tu navegador.
-
-
 3. Escribir un nombre en el campo de texto y hacer clic en Agregar.
-
-
 4. Una vez que haya nombres en la lista, hacer clic en Sortear amigo para obtener un ganador aleatorio.
 
+---
 
+## 🌐 Demo en vivo
 
-
+Podés ver la app funcionando acá:  
+[https://belubullorini.github.io/challenge-amigo-secreto/](https://belubullorini.github.io/challenge-amigo-secreto/)
+  
 ---
 
 👩‍💻 Autor/a
 
 Belén Bullorini
 LinkedIn | GitHub
-
 
 ---
 
