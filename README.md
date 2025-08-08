@@ -31,31 +31,36 @@ Ideal para juegos y reuniones con amigos o familia.
 
 ---
 
-## 📸 Vista previa
+## 🖼 Vista previa
+A continuación podés ver el funcionamiento de la app en 4 pasos:
 
-<p align="center" style="max-width: 800px; margin: auto;">
+---
 
-  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
-    <img src="assets/amigo-secreto-01.png" alt="Pantalla limpia" style="width: 100%; border-radius: 8px;">
-    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 1: Pantalla inicial limpia</figcaption>
-  </figure>
+### Paso 1: Pantalla inicial limpia
 
-  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
-    <img src="assets/amigo-secreto-02.png" alt="Agregar nombre" style="width: 100%; border-radius: 8px;">
-    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 2: Agregar un nombre</figcaption>
-  </figure>
+<img src="assets/amigo-secreto-01.png" alt="Pantalla inicial limpia" width="600"  
+style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
 
-  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
-    <img src="assets/amigo-secreto-03.png" alt="Lista con amigos" style="width: 100%; border-radius: 8px;">
-    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 3: Lista con varios nombres</figcaption>
-  </figure>
+---
 
-  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
-    <img src="assets/amigo-secreto-04.png" alt="Sorteo" style="width: 100%; border-radius: 8px;">
-    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 4: Resultado del sorteo</figcaption>
-  </figure>
+### Paso 2: Agregar un nombre
 
-</p>
+<img src="assets/amigo-secreto-02.png" alt="Agregar nombre" width="600"  
+style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
+
+---
+
+### Paso 3: Lista con varios nombres
+
+<img src="assets/amigo-secreto-03.png" alt="Lista con varios nombres" width="600"  
+style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
+
+---
+
+### Paso 4: Resultado del sorteo
+
+<img src="assets/amigo-secreto-04.png" alt="Resultado del sorteo" width="600"  
+style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
 
 ---
 
