@@ -58,11 +58,10 @@ Podés ver la app funcionando acá:
   
 ---
 
-👩‍💻 Autor/a
-
-Belén Bullorini
-LinkedIn | GitHub
+## 👩‍💻 Autor/a
+**Belén Bullorini**  
+[LinkedIn](https://www.linkedin.com/in/belenbullorini) | [GitHub](https://github.com/belubullorini)
 
 ---
 
-✨ ¡Gracias por visitar el proyecto! 🎉
+✨ ¡Gracias por visitar el proyecto! 🎉👩‍💻 
