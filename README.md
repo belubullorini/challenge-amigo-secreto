@@ -31,9 +31,31 @@ Ideal para juegos y reuniones con amigos o familia.
 
 ---
 
-## 🖼 Vista previa
+## 📸 Vista previa
 
-![Vista previa de la app](ruta/de/la/imagen.png)  
+<p align="center" style="max-width: 800px; margin: auto;">
+
+  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
+    <img src="assets/amigo-secreto-01.png" alt="Pantalla limpia" style="width: 100%; border-radius: 8px;">
+    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 1: Pantalla inicial limpia</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
+    <img src="assets/amigo-secreto-02.png" alt="Agregar nombre" style="width: 100%; border-radius: 8px;">
+    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 2: Agregar un nombre</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
+    <img src="assets/amigo-secreto-03.png" alt="Lista con amigos" style="width: 100%; border-radius: 8px;">
+    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 3: Lista con varios nombres</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.1);">
+    <img src="assets/amigo-secreto-04.png" alt="Sorteo" style="width: 100%; border-radius: 8px;">
+    <figcaption style="text-align: center; font-weight: bold; margin-top: 5px;">Paso 4: Resultado del sorteo</figcaption>
+  </figure>
+
+</p>
 
 ---
 
