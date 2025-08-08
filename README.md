@@ -1,3 +1,5 @@
+![Banner animado](assets/ezgif-6c32d800d395d0.gif)
+
 # 🎁 Amigo Secreto
 
 Una mini app web para ingresar nombres, mostrar la lista y sortear un amigo secreto de forma aleatoria.  
