@@ -13,14 +13,20 @@ Ideal para juegos y reuniones con amigos o familia.
 ## 🖼 Vista previa
 
 ![Vista previa de la app](ruta/de/la/imagen.png)  
-*(Reemplaza `ruta/de/la/imagen.png` por el nombre del archivo de tu captura en el repositorio)*
 
 ---
 
 ## 🛠 Tecnologías usadas
-- HTML5
-- CSS3
-- JavaScript
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+**Herramientas adicionales:**  
+- Editor de código: Visual Studio Code  
+- Control de versiones: Git y GitHub
 
 ---
 
