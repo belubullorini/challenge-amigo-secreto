@@ -77,4 +77,11 @@ Podés ver la app funcionando acá:
 
 ---
 
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT.  
+Para más detalles, ver el archivo [LICENSE](./LICENSE) en este repositorio.
+
+---
+
 ✨ ¡Gracias por visitar el proyecto! 🎉👩‍💻 
