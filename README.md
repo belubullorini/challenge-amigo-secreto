@@ -12,6 +12,20 @@ Ideal para juegos y reuniones con amigos o familia.
 
 ---
 
+## Índice
+
+- [📌 Estado del proyecto](#-estado-del-proyecto)  
+- [🖼 Vista previa](#-vista-previa)  
+- [🛠 Tecnologías usadas](#-tecnologías-usadas)  
+- [✨ Funcionalidades](#-funcionalidades)  
+- [🚀 Próximas mejoras](#-próximas-mejoras)  
+- [💻 Cómo usar](#-cómo-usar)  
+- [🌐 Demo en vivo](#-demo-en-vivo)  
+- [👩‍💻 Autora](#-autora)  
+- [📄 Licencia](#-licencia)
+
+---
+
 ## 📌 Estado del proyecto
 ✅ Versión funcional: se pueden agregar nombres (con validación y sin duplicados), mostrarlos en pantalla y realizar el sorteo aleatorio con un mensaje personalizado.
 
