@@ -38,28 +38,28 @@ A continuación podés ver el funcionamiento de la app en 4 pasos:
 
 ### Paso 1: Pantalla inicial limpia
 
-<img src="assets/amigo-secreto-01.png" alt="Pantalla inicial limpia" width="600"  
+<img src="assets/amigo-secreto-01.png" alt="Pantalla inicial limpia" width="400"  
 style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
 
 ---
 
 ### Paso 2: Agregar un nombre
 
-<img src="assets/amigo-secreto-02.png" alt="Agregar nombre" width="600"  
+<img src="assets/amigo-secreto-02.png" alt="Agregar nombre" width="400"  
 style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
 
 ---
 
 ### Paso 3: Lista con varios nombres
 
-<img src="assets/amigo-secreto-03.png" alt="Lista con varios nombres" width="600"  
+<img src="assets/amigo-secreto-03.png" alt="Lista con varios nombres" width="400"  
 style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
 
 ---
 
 ### Paso 4: Resultado del sorteo
 
-<img src="assets/amigo-secreto-04.png" alt="Resultado del sorteo" width="600"  
+<img src="assets/amigo-secreto-04.png" alt="Resultado del sorteo" width="400"  
 style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;" />
 
 ---
