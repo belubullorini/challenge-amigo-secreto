@@ -1,5 +1,10 @@
 ![Banner animado](assets/ezgif-6c32d800d395d0.gif)
 
+![Estado](https://img.shields.io/badge/estado-completo-brightgreen)
+![Lenguaje](https://img.shields.io/badge/lenguaje-JavaScript-yellow)
+![Licencia](https://img.shields.io/badge/licencia-MIT-blue)
+![Última actualización](https://img.shields.io/badge/última%20actualización-2025--08--08-green)
+
 # 🎁 Amigo Secreto
 
 Una mini app web para ingresar nombres, mostrar la lista y sortear un amigo secreto de forma aleatoria.  
