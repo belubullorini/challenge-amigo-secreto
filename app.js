@@ -10,6 +10,11 @@ if (nombre === "") {
     return;
 }
 
+if (amigos.includes(nombre)) {
+    alert("Ese nombre ya fue ingresado.");
+    return;
+  }
+
 amigos.push(nombre);
 input.value = "";
 
@@ -36,5 +41,5 @@ function sortearAmigo() {
   const nombreSorteado = amigos[indiceAleatorio];
 
   const resultado = document.getElementById("resultado");
-  resultado.innerHTML = `<li>${nombreSorteado} ha sido sorteado 🎉</li>`;
+  resultado.innerHTML = `<li>🎁 El amigo secreto sorteado es: <strong>${nombreSorteado}</strong> 🎉</li>`;
 }
