@@ -58,7 +58,7 @@ Podés ver la app funcionando acá:
   
 ---
 
-## 👩‍💻 Autor/a
+## 👩‍💻 Autora
 **Belén Bullorini**  
 [LinkedIn](https://www.linkedin.com/in/belenbullorini) | [GitHub](https://github.com/belubullorini)
 
